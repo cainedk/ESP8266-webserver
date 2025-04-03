@@ -82,7 +82,7 @@ String htmlContent = "<!DOCTYPE html>"
                      "        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>"
                      "    </div>"
                      "    <div class=\"footer\">"
-                     "        <p>&copy; 2024 Your Website Name</p>"
+                     "        <p>&copy; 2025 Your Website Name</p>"
                      "    </div>"
                      "</body>"
                      "</html>";
