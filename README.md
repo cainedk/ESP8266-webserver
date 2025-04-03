@@ -6,5 +6,8 @@ const char* password = "YOUR_WIFI_PASSWORD";
 And it will connect to the wifi
 
 The webserver will default post the site to port 80 at the IP the ESP8622 gets from the wifi
+Libraries that are used:
+ESP8266WebServer.h
+ESP8266WiFi.h
 
 Nothing else at the moment BONK!!!
